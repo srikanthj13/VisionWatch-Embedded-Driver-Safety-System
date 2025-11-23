@@ -9,7 +9,6 @@ A cost-effective embedded safety system that detects driver drowsiness in real-t
 ## 👥 Team Members
 
 - **J. Srikanth** 
-- **Kunwar Vikramaaditya Singh Katheria** 
 - **Navya Pathak** 
 - **Pronay Dutta** 
 - **P. Sai Teja** 
