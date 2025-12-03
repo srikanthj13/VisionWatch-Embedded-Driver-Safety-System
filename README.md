@@ -117,4 +117,5 @@ This is a prototype system designed for educational and research purposes. It sh
 
 **Project Type:** Open-source prototype / Personal research project [file:2]
 
-**License:** MIT (or choose your preferred license)
+**License:** MIT
+
